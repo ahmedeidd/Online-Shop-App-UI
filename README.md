@@ -7,7 +7,7 @@ In addition to that he has two languages Arabic and English.
 
 ## some vidoes
 <!-- record_1 -->
-![original Design](https://github.com/ahmedeidd/News_EID_app/blob/master/screenshots/record_1.gif "Design")
+![original Design](https://github.com/ahmedeidd/Online-Shop-App-UI/blob/main/screenshots/record_1.gif "Design")
 
 
 ## Screenshots
