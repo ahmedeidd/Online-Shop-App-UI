@@ -5,7 +5,7 @@ it shows the price and short description of the product with the Buy Now button.
 each product has its own color which looks great.
 In addition to that it has two languages Arabic and English.
 
-## some vidoes
+## some videos
 <!-- record_1 -->
 ![original Design](https://github.com/ahmedeidd/Online-Shop-App-UI/blob/main/screenshots/record_1.gif "Design")
 
